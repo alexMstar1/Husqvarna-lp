@@ -1,0 +1,11 @@
+.header{
+ &__brand{
+   display: flex;
+   justify-content: flex-end;
+ }
+  &__logo{
+    width: 100px;
+    height: auto;
+    object-fit: cover;
+  }
+}
